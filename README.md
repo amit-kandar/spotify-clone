@@ -75,5 +75,5 @@ Start the server
 
 ## Demo
 
-Insert gif or link to demo
+![](https://github.com/amit-kandar/spotify-clone/blob/main/demo.gif)
 
