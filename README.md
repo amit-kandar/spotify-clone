@@ -45,7 +45,6 @@ Go to the project directory
 
 ```bash
   cd spotify-clone
-  cd client  
 ```
 
 Install dependencies
@@ -54,11 +53,9 @@ Install dependencies
   npm install
 ```
 
-Start the server
+Start the app
 ```bash
-  cd ../
-  npm install
-  npm start
+  npm start dev
 ```
 
 
