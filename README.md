@@ -55,6 +55,7 @@ Install dependencies
 
 Start the app
 ```bash
+  cd client
   npm start dev
 ```
 
