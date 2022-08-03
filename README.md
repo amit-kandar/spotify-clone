@@ -47,18 +47,28 @@ Go to the project directory
   cd spotify-clone
 ```
 
-Install dependencies
+Install server dependencies 
 
 ```bash
   npm install
 ```
 
-Start the app
+Start the server
 ```bash
-  cd client
-  npm start dev
+  npm start
 ```
 
+Install client dependencies 
+
+```bash
+  cd client
+  npm install
+```
+
+Start the client
+```bash
+  npm start
+```
 
 ## Features
 
