@@ -1,8 +1,7 @@
-import React, { useState } from 'react'
+import React from 'react'
 
 function Artist(props) {
     const { artist, handleArtistId } = props
-    const [artistId, setArtistId] = useState()
 
     const handleOnChange=(e)=>{
         console.log(e.target.value);
