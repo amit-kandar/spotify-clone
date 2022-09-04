@@ -7,7 +7,7 @@ It has the following entities in the application.
 Artists   | Songs    | Users |
 --------- | -------- | ------|
 -Name   |  - Name  | -Name |
--DOb    |  - Date of Release |-Email |
+-DOB    |  - Date of Release |-Email |
 -BIO    |  - Cover (image) |
 
 
